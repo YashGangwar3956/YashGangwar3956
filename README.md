@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Final Year B.Tech IT student at **IIIT Bhopal** | **CGPA: 8.72/10**
+- 🎓 **B.Tech Graduate in IT** from **IIIT Bhopal** | **CGPA: 8.72/10**
 - 💼 Software Engineering Intern at **Dialpad**
 - ⚙️ Passionate about **full-stack development**, **cloud-native infrastructure**, and **applied machine learning**
 - 🚀 Tech Stack: `MERN` | `Terraform` | `Docker` | `Kubernetes` | `ArgoCD` | `CI/CD` | `GCP & AWS`
