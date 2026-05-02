@@ -1,10 +1,9 @@
-<h1 align="center">Hi, I'm Yash Gangwar 👋</h1>
-<h3 align="center">Software Engineer @ Dialpad | Full Stack Developer | Agentic AI</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Yash%20Gangwar&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Agentic%20AI&descAlignY=55&descAlign=50"/>
+</p>
 
 <p align="center">
-  <a href="mailto:yash98605@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/yash-gangwar-4b8481232/">LinkedIn</a> •
-  <a href="https://github.com/YashGangwar3956">GitHub</a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer+@+Dialpad;Full+Stack+Developer;Agentic+AI+Enthusiast;Problem+Solver+%7C+1600%2B+DSA+Problems"/>
 </p>
 
 ---
@@ -12,9 +11,9 @@
 ## 🧑‍💻 About Me
 
 - 💼 **Software Engineer @ Dialpad**
-- 📍 **Bengaluru, India**
-- 🎓 **B.Tech IT, IIIT Bhopal** | CGPA: 8.72/10  
-- ⚙️ Focused on **Full-Stack Development**, **Cloud/DevOps**, and **Agentic AI Systems**
+- 📍 **Bengaluru, Karnataka, India**
+- 🎓 **B.Tech in IT, IIIT Bhopal** | CGPA: 8.72/10  
+- ⚙️ Passionate about **Full-Stack Development**, **Cloud-Native Infrastructure**, and **Agentic AI Systems**
 - 🧠 Strong in **DSA & Problem Solving** (1600+ problems solved)
 
 ---
@@ -30,7 +29,7 @@
 **Cloud & DevOps:**  
 `Docker` `Kubernetes` `Terraform` `ArgoCD` `GitHub Actions` `GCP` `AWS`
 
-**ML/AI:**  
+**ML / AI:**  
 `TensorFlow` `OpenCV` `Scikit-learn`
 
 ---
@@ -48,6 +47,9 @@
 
 ### 🎬 Movie Recommendation System
 - Built **content-based filtering system** using KNN + cosine similarity  
+
+### 🔊 Sorting Visualizer with Sound
+- Interactive Bubble Sort visualizer with **real-time audio feedback**  
 
 ---
 
@@ -70,10 +72,19 @@
 
 ---
 
+## 🎭 Other Things I Do
+
+🎶 Music Coordinator @ Aarzoo Club, IIIT Bhopal  
+🧑‍🎤 Organized and hosted 10+ cultural events  
+📣 Interested in blending creativity with engineering  
+
+---
+
 ## 📫 Connect with Me
 
 - 📧 yash98605@gmail.com  
 - 💼 https://www.linkedin.com/in/yash-gangwar-4b8481232/  
+- 🐙 https://github.com/YashGangwar3956  
 - 📍 Bengaluru, India  
 
 ---
