@@ -48,6 +48,22 @@ Software Engineer @ Dialpad | Full Stack Developer | Cloud & Kubernetes Enthusia
 
 ---
 
+## 🤖 Marketing Lifecycle Intelligence Platform
+
+- Designed centralized AI-powered marketing knowledge repository with metadata-driven retrieval and governance
+- Built architecture for AI-assisted content review workflows, semantic search, approval automation and reusable marketing intelligence
+- Worked on scalable workflow concepts involving Contentful, vector embeddings, attribution analytics and AI-driven review pipelines
+
+---
+
+## 🔗 Planhat-Glean MCP Connector
+
+- Built secure MCP server integrating Planhat customer intelligence into Glean AI workflows using Node.js, TypeScript and Cloud Run
+- Implemented Google OAuth + Workspace SSO authentication, audit logging, CI/CD automation and secure secret management
+- Resolved Wiz vulnerabilities by removing gcloud dependency, migrating to metadata-based secret retrieval and upgrading runtime security stack
+
+---
+
 ## 🎥 Action-Based Sports Video Classification
 
 - Built CNN model using TensorFlow and OpenCV
