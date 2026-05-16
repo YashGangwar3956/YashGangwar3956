@@ -84,7 +84,7 @@ Software Engineer @ Dialpad | Full Stack Developer | Cloud & Kubernetes Enthusia
 # 💻 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/https://leetcode.com/u/yash_leetcode/?theme=dark&font=Karma&ext=contest" />
 </p>
 
 ---
@@ -92,7 +92,7 @@ Software Engineer @ Dialpad | Full Stack Developer | Cloud & Kubernetes Enthusia
 # 🟢 GeeksForGeeks Stats
 
 <p align="center">
-  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=YOUR_GFG_USERNAME&theme=dark" />
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=https://www.geeksforgeeks.org/profile/yashiiitb&theme=dark" />
 </p>
 
 ---
@@ -159,11 +159,11 @@ Software Engineer @ Dialpad | Full Stack Developer | Cloud & Kubernetes Enthusia
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+<a href="https://leetcode.com/https://leetcode.com/u/yash_leetcode/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
-<a href="https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME">
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/yashiiitb">
   <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
