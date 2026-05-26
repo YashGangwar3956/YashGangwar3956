@@ -10,7 +10,7 @@ Software Engineer @ Dialpad | Full Stack Developer | Cloud & Kubernetes Enthusia
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Software+Engineer+@+Dialpad;Full+Stack+Developer;Kubernetes+%2B+Cloud+Engineer;Agentic+AI+Enthusiast;1600%2B+DSA+Problems+Solved;LeetCode+%7C+Codeforces+%7C+CodeChef" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Software+Engineer+@+Dialpad;Full+Stack+Developer;Kubernetes+%2B+Cloud+Engineer;Agentic+AI+Enthusiast;2000%2B+Problems+Solved+on+LeetCode;LeetCode+%7C+Codeforces" />
 </p>
 
 <p align="center">
@@ -26,7 +26,17 @@ Software Engineer @ Dialpad | Full Stack Developer | Cloud & Kubernetes Enthusia
 - 📍 Bengaluru, Karnataka, India
 - ⚡ Passionate about Full Stack Development, Cloud Infrastructure & Agentic AI
 - 🧠 Strong problem solving and DSA skills
-- 🏆 Solved 1600+ DSA problems across platforms
+- 🏆 Solved 2000+ coding problems across platforms
+
+---
+
+# 📄 Resume
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1sKgDaW_qYsXZd9Zk0Wyd_oZk7kK1e4pw/view">
+    <img src="https://img.shields.io/badge/Resume-View%20Resume-blue?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -90,11 +100,11 @@ Software Engineer @ Dialpad | Full Stack Developer | Cloud & Kubernetes Enthusia
 # 🏆 Achievements
 
 - 🥇 Top 25 / 6000 — AlgoUniversity Contest
-- 🌍 4th Global — CodeChef Div 4
-- 🌍 99th Global — CodeChef Div 3
-- ⭐ CodeChef 3★
-- 🔰 Codeforces Pupil
-- 💯 1600+ DSA Problems Solved
+- 🔥 Codeforces Specialist
+- 💯 2000+ Problems Solved on LeetCode
+- 🥈 6th Place — CodeClash @ IIIT Bhopal
+- 🧠 Institute Rank 2 — GeeksforGeeks, IIIT Bhopal
+- 🚀 Software Engineer @ Dialpad
 
 ---
 
@@ -184,6 +194,10 @@ Software Engineer @ Dialpad | Full Stack Developer | Cloud & Kubernetes Enthusia
 
 <a href="https://auth.geeksforgeeks.org/user/yashiiitb">
   <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+<a href="https://x.com/GangwarYas56464">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 </p>
