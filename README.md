@@ -103,7 +103,7 @@ Software Engineer @ Dialpad | Full Stack Developer | Cloud & Kubernetes Enthusia
 - 🔥 Codeforces Specialist
 - 💯 2000+ Problems Solved on LeetCode
 - 🥈 6th Place — CodeClash @ IIIT Bhopal
-- 🧠 Institute Rank 2 — GeeksforGeeks, IIIT Bhopal
+- 🧠 Institute Rank 1 — GeeksforGeeks, IIIT Bhopal
 - 🚀 Software Engineer @ Dialpad
 
 ---
