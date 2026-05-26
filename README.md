@@ -100,11 +100,10 @@ Software Engineer @ Dialpad | Full Stack Developer | Cloud & Kubernetes Enthusia
 # 🏆 Achievements
 
 - 🥇 Top 25 / 6000 — AlgoUniversity Contest
-- 🔥 Codeforces Specialist
+- 🔥 Codeforces Specialist with Max Rating of 1456
 - 💯 2000+ Problems Solved on LeetCode
 - 🥈 6th Place — CodeClash @ IIIT Bhopal
 - 🧠 Institute Rank 1 — GeeksforGeeks, IIIT Bhopal
-- 🚀 Software Engineer @ Dialpad
 
 ---
 
